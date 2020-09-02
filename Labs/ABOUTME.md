@@ -5,4 +5,4 @@
 I love customer satisfaction and retention to promote continous growth in sales. I'm currently switching career to Data Analytics and it entails working on company's database of clients to promote bottom line and I love the transferable skills I'm bringing to my new career as a Data Analyst. Data Analytics is completely new to me and I am ready to learn and excel in this new path. Although I am currently facing challenges and depressing moments especially when I am not getting most of the in-class taught topics, not to mention the labs!
 
 I promise to handle this new face excellently well and become the best and greater Data Analyst.
-This is conflict.
+*This is conflict.
