@@ -9,4 +9,6 @@
 
 * This another conflict for master.
 
+this is conflict.
+
 
